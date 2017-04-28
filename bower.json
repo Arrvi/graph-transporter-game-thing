@@ -21,6 +21,8 @@
     "tests"
   ],
   "dependencies": {
-    "paper": "*"
+    "paper": "*",
+    "requirejs": "*",
+    "ramda": "^0.23.0"
   }
 }
