@@ -1,0 +1,26 @@
+{
+  "name": "graph-transporter-game-thing",
+  "homepage": "https://github.com/Arrvi/graph-transporter-game-thing",
+  "authors": [
+    "Kristian Kann <arrvi@arrvi.eu>"
+  ],
+  "description": "Random idea of a puzzle/strategy game mechanic",
+  "main": "app.js",
+  "keywords": [
+    "game",
+    "graph",
+    "concept"
+  ],
+  "license": "GPL",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "paperjs": "*"
+  }
+}
