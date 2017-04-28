@@ -21,6 +21,6 @@
     "tests"
   ],
   "dependencies": {
-    "paperjs": "*"
+    "paper": "*"
   }
 }

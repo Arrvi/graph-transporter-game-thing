@@ -1,0 +1,19 @@
+body {
+	font: 14pt Lato, Helvetica, sans-serif;
+	color: #333;
+	background: #e0e7ef;
+}
+
+h1,h2,h3,h4,h5 {
+	margin: .8em 0;
+	text-align: center;
+	text-shadow: 2px 2px 2px #ccc;
+	font-weight: normal;
+}
+
+canvas {
+	background: #fff;
+	display: block;
+	margin: 20px auto;
+	box-shadow: 4px 4px 4px #999;
+}
